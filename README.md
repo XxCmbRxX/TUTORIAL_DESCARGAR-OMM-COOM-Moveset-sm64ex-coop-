@@ -19,8 +19,8 @@ wget https://github.com/PeachyPeachSM64/sm64ex-omm/raw/coop/omm-coop.zip
 ```bash
 unzip omm-coop.zip -d /storage/emulated/0/com.owokitty.sm64excoop/user/mods/
 ```
-## Sigueme en mis `Redes sociales`
+## Sigueme en mis `Redes Sociales`
 
-* [Facebook]( https://www.facebook.com/profile.php?id=100087203207899&mibextid=ZbWKwL)
+
 
 * [Youtube](https://youtube.com/@XxCmbRxX)
