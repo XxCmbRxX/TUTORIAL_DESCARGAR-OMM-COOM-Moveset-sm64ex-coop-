@@ -6,7 +6,7 @@ termux-setup-storage
 ```
 # si ya tenias puesto el comando anterior pues ignoralo y sigue con el proceso del video
 
-![image](https://sm64ex-coopmods.com/odyssey-marios-moveset-rebirth/)
+![image](https://user-images.githubusercontent.com/31490854/207102280-3db84815-53d0-467c-886a-a833be5c8780.png)
 
 * EJEMPLO - [OMM-COOP Mario's Moveset](https://sm64ex-coopmods.com/odyssey-marios-moveset-rebirth/):
 
