@@ -2,8 +2,6 @@
 # TUTORIAL_DESCARGAR-OMM-COOM-Moveset
 # Si no tienes el acceso a almacenamiento necesitaras poner el comando a continuación si es la primera vez que usas Termux
 
-[![](https://markdown-videos.deta.dev/youtube/h7mnLyf1loM)](https://youtu.be/h7mnLyf1loM)
-
 ```bash
 termux-setup-storage
 ```
