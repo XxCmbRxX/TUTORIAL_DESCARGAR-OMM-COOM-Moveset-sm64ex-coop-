@@ -1,3 +1,5 @@
+https://cdn.discordapp.com/attachments/1117181596907356280/1120598962114666616/lv_0_20230619231622.mp4
+
 # TUTORIAL_DESCARGAR-OMM-COOM-Moveset
 # Si no tienes el acceso a almacenamiento necesitaras poner el comando a continuación si es la primera vez que usas Termux
 
