@@ -1,6 +1,6 @@
 
 # TUTORIAL_DESCARGAR-OMM-COOM-Moveset
-https://github.com/XxCmbRxX//assets/125222572/4ff18d5d-04a9-45c0-8833-43e0f7152f43
+https://github.com/XxCmbRxX/TUTORIAL_DESCARGAR-OMM-COOM-Moveset-sm64ex-coop-/assets/125222572/4ff18d5d-04a9-45c0-8833-43e0f7152f43
 
 # Si no tienes el acceso a almacenamiento necesitaras poner el comando a continuación si es la primera vez que usas Termux
 
