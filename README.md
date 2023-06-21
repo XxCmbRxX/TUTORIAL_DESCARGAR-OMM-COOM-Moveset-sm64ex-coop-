@@ -1,7 +1,6 @@
 
 # TUTORIAL_DESCARGAR-OMM-COOM-Moveset
 
-https://github.com/XxCmbRxX/Test/assets/125222572/631a2196-2fe7-40dc-b3ef-38ffba0447b0
 
 # Si no tienes el acceso a almacenamiento necesitaras poner el comando a continuación si es la primera vez que usas Termux
 
